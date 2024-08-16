@@ -1,0 +1,6 @@
+openai
+instructor
+llama-cpp-python
+llama-cpp-python[server]
+vnstock3
+bs4
